@@ -1,0 +1,15 @@
+C:\Users\PULSE Electronics\source\repos\Punimi\Punimi\bin\Debug\Punimi.exe.config
+C:\Users\PULSE Electronics\source\repos\Punimi\Punimi\bin\Debug\Punimi.exe
+C:\Users\PULSE Electronics\source\repos\Punimi\Punimi\bin\Debug\Punimi.pdb
+C:\Users\PULSE Electronics\source\repos\Punimi\Punimi\bin\Debug\Punimi.xml
+C:\Users\PULSE Electronics\source\repos\Punimi\Punimi\obj\Debug\Punimi.vbprojAssemblyReference.cache
+C:\Users\PULSE Electronics\source\repos\Punimi\Punimi\obj\Debug\Punimi.Form1.resources
+C:\Users\PULSE Electronics\source\repos\Punimi\Punimi\obj\Debug\Punimi.Resources.resources
+C:\Users\PULSE Electronics\source\repos\Punimi\Punimi\obj\Debug\Punimi.vbproj.GenerateResource.cache
+C:\Users\PULSE Electronics\source\repos\Punimi\Punimi\obj\Debug\Punimi.vbproj.CoreCompileInputs.cache
+C:\Users\PULSE Electronics\source\repos\Punimi\Punimi\obj\Debug\Punimi.exe
+C:\Users\PULSE Electronics\source\repos\Punimi\Punimi\obj\Debug\Punimi.xml
+C:\Users\PULSE Electronics\source\repos\Punimi\Punimi\obj\Debug\Punimi.pdb
+C:\Users\PULSE Electronics\source\repos\Punimi\Punimi\obj\Debug\Punimi.Chat.resources
+C:\Users\PULSE Electronics\source\repos\Punimi\Punimi\obj\Debug\Punimi.Server.resources
+C:\Users\PULSE Electronics\source\repos\Punimi\Punimi\obj\Debug\Punimi.Client.resources
